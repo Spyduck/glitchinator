@@ -13,4 +13,4 @@ requires python 3, imageio, click, jpglitch:
 > pip3 install imageio click git+https://github.com/NotSoSuper/jpglitch
 
 ## Example usage:
-> python3 ./glitchinator.py --frame_count 15 --output ./jerry_glitch --input ./jerry.png
+> python3 ./glitchinator.py --frame_count 15 --output ./jerry_glitch ./jerry.png
