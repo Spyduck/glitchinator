@@ -4,7 +4,7 @@ Creates an animated glitch GIF from a source image
 
 ## Installation:
 
-requires imageio, click, jpglitch:
+requires python 3, imageio, click, jpglitch:
 
 > pip install imageio click git+https://github.com/NotSoSuper/jpglitch
 
